@@ -1,3 +1,4 @@
+"use strict";
 // ==================================================================
 //  OPGAVE 3 – BYG DIN INTERAKTIVE ZOO
 //  Noget af koden er skrevet for dig. Du skal tilføje, hvor der står ✏️
